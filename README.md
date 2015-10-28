@@ -5,8 +5,7 @@
 ////////////////////////
 
 This is a draft of a resource that came out of envisioning the next iteration of the 
-Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan),  
-and reframing it as a guide towards implementation within a group. In 
+Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan), and reframing it as a guide towards implementation within a group. In 
 this reframing I have relied heavily on the content of the Organizational Security 
 Atomized Plan itself, Internews' [SAFETAG](https://github.com/OpenInternet/SAFETAG/) 
 organizational assessment framework, and other resources listed in the 
@@ -35,25 +34,24 @@ continues to be developed.
 0. Introduction
 
 1. Access policies
-1.1 Access to your place of work
-1.2 Access to physical documents
-1.3 Access to devices
-1.4 Access to accounts
-1.5 Removing access to organizational assets upon departure
+  1.1 Access to your place of work
+  1.2 Access to physical documents
+  1.3 Access to devices
+  1.4 Access to accounts
+  1.5 Removing access to organizational assets upon departure
 
 2. Data management policies
-2.1 Backing-up data (website, org data)
-2.2 Travel with data (data minimization, encryption)
-2.3 Deleting data
+  2.1 Backing-up data (website, org data)
+  2.2 Travel with data (data minimization, encryption)
+  2.3 Deleting data
 
 3. Communications policies 
-3.1 Define more and less sensitive communication methods
-3.2 Email security
+  3.1 Define more and less sensitive communication methods
+  3.2 Email security
 
 4. Creating and maintaining an engaged organizational culture
-4.1 Update software on devices
-4.2 Create spaces for learning, assessing, adopting, adapting policies and 
-practices
+  4.1 Update software on devices
+  4.2 Create spaces for learning, assessing, adopting, adapting policies andpractices
 
 5. Resources
 
