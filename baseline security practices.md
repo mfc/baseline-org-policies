@@ -253,9 +253,9 @@ Some existing resources on risk assessment frameworks include:
 -- Security in a Box's [resources for assessing 
 risks](https://securityinabox.org/en/lgbti-africa/security-risk)
 * SAFETAG's [capacity assessment cheatsheet](https://github.com/OpenInternet/SAFETAG/blob/master/en/exercises/capacity_assessment_cheatsheet/instructions.md)
-* [Integrated Security 
-Manuael](http://www.integratedsecuritymanual.org/threats-exercises)
+* [Integrated Security Manual](http://www.integratedsecuritymanual.org/threats-exercises)
 * Surveillance Self-Defence's [intro to threat modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
+* Security First's [Umbrella App](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
 
 If you need assistance with assessing your groups needs and practices, 
 feel free to contact:
