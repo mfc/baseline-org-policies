@@ -18,8 +18,8 @@
   * Deleting data
 
 3. Communications policies 
-  * Define more and less sensitive communication methods
-  * Email security
+  * Practices
+  * Infrastructure
 
 4. Creating and maintaining an engaged organizational culture
   * Update software on devices
@@ -184,27 +184,31 @@ of access control.
 
 ## 3. Communications policies
 
-### 3.1 Practices and policies
+### 3.1 Practices
 
-* Provide staff with work accounts (email, chat)
+* Provide staff with work accounts (email, chat, voice)
 * Don't use your work account for personal communication or visa versa
--- this can be difficult if your work is in your community
--- at minimum make sure that you still have personal space online where 
+  * this can be difficult if your work is in your community
+  * at minimum make sure that you still have personal space online where 
 you do not feel watched, judged, or "branded" by the org you work for
--- changing default FB sharing settings for posts and photos, creating 
+* changing default FB sharing settings for posts and photos, creating 
 groups, requiring consent to be tagged in a post or photo 
-* Do not open unsolicited attachments or links
--- Clear hyperlink and attachment policies
-* enable HTTPS for your organization's website
--- at minimum, ensure that the log-in page for administrating the 
-website has HTTPS enabled.
 
-### 3.2 Email
+* agree on more and less sensitive communications methods for staff
 
-#### Organizational
+* Do not share or open unsolicited attachments or links
 * fight the email deluge by agreeing on informative subject lines
 
-#### Technical
+* enable HTTPS for your organization's website
+  * at minimum, ensure that the log-in page for administrating the 
+website has HTTPS enabled.
+
+### 3.2 Infrastructure
+
+* know what organizations or companies provide you with your communication needs
+
+* all online communications channels used by staff should at minimum use transport layer security (TLS), whether Jabber/XMPP chat, IMAP/SMTP email or webmail, IRC chat, etc.
+
 * Ensure that staff access email accounts through HTTPS
 
 * Ensure that email provider uses STARTTLS 
