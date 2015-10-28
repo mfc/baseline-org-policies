@@ -240,6 +240,7 @@ required and a staff member does not have a license
 
 ### 4.2 Create spaces for learning, assessing, adapting policies and practices
 
+{ space created }
 
 ## 5. Resources
 
