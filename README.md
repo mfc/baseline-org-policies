@@ -27,7 +27,8 @@ Thanks to the groups and organizations I've worked with whose needs
 instigated the creation of this resource, and for their patience as it 
 continues to be developed. 
 
-# *Baseline organizational policies and practices* that every group working in human rights should consider implementing
+# Baseline organizational policies and practices 
+(that every group working in human rights should consider implementing)
 
 ## Table of Contents
 
