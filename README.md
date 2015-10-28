@@ -51,7 +51,7 @@ continues to be developed.
 
 4. Creating and maintaining an engaged organizational culture
   * Update software on devices
-  * Create spaces for learning, assessing, adopting, adapting policies andpractices
+  * Create spaces for learning, assessing, adopting, adapting policies and practices
 
 5. Resources
 
