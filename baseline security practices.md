@@ -207,25 +207,25 @@ website has HTTPS enabled.
 #### Technical
 * Ensure that staff access email accounts through HTTPS
 
-* Ensure that email provider uses STARTLS 
+* Ensure that email provider uses STARTTLS 
 
-//------------- 
-the following should be in SAFETAG / assessments:
-(to test STARTLS:)
+```
+### to test STARTTLS
+(the following should be in SAFETAG / assessments, not here)
 
 * test using https://checktls.com
 * type in `test@<email-provider-URL>`
 
 * look at column `TLS Neg`
   -- if `OK`, it uses STARTTLS
-  -- if `FAIL`, then you will need to implement STARTLS on your mail 
+  -- if `FAIL`, then you will need to implement STARTTLS on your mail 
 server or move email providers
 
 * look at column `Cert OK`
   -- if `OK`, it properly implements a TLS certificate
   -- if `FAIL`, you or your email provider needs to improve the TLS 
 certificate used
------------------//
+```
 
 ## 4 Creating and Maintaining an Engaged Organizational Culture
 
