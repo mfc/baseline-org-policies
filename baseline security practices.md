@@ -6,22 +6,24 @@
 0. Introduction
 
 1. Access policies
-  1.1 Access to where you work
-  1.2 Access to devices
-  1.3 Access to accounts
+  * Access to where you work
+  * Access to devices
+  * Access to accounts
+  * Access to accounts
+  * Removing access to organizational assets upon departure
 
 2. Data management policies
-  2.1 Backing-up data (website, org data)
-  2.2 Travelling with data (data minimization, encryption)
-  2.3 Deleting data
+  * Backing-up data (website, org data)
+  * Travelling with data (data minimization, encryption)
+  * Deleting data
 
 3. Communications policies 
-  3.1 Define more and less sensitive communication methods
-  3.2 Email security
+  * Define more and less sensitive communication methods
+  * Email security
 
 4. Creating and maintaining an engaged organizational culture
-  4.1 Update software on devices
-  4.2 Create spaces for learning, assessing, adopting, adapting policies and practices
+  * Update software on devices
+  * Create spaces for learning, assessing, adopting, adapting policies and practices
 
 5. Resources
 
@@ -119,12 +121,12 @@ be recorded.
 
 ### 1.4 Access to accounts
 
---> organizational accounts (web presence [website, social media])
---> password manager
---> delegate control (tweetdeck, FB pages)
---> two-factor authentication
---> secret questions
---> Personnel management onboarding/offboarding
+* organizational accounts (web presence [website, social media])
+* password manager
+* delegate control (tweetdeck, FB pages)
+* two-factor authentication
+* secret questions
+* Personnel management onboarding/offboarding
 
 ### 1.5 Removing access to organizational assets upon departure
 		
@@ -189,43 +191,41 @@ of access control.
 -- this can be difficult if your work is in your community
 -- at minimum make sure that you still have personal space online where 
 you do not feel watched, judged, or "branded" by the org you work for
---> changing default FB sharing settings for posts and photos, creating 
+-- changing default FB sharing settings for posts and photos, creating 
 groups, requiring consent to be tagged in a post or photo 
 * Do not open unsolicited attachments or links
 -- Clear hyperlink and attachment policies
 * enable HTTPS for your organization's website
---> at minimum, ensure that the log-in page for administrating the 
+-- at minimum, ensure that the log-in page for administrating the 
 website has HTTPS enabled.
 
 ### 3.2 Email
 
 #### Organizational
 * fight the email deluge by agreeing on informative subject lines
---> something that is just informative, requires no response
---> something that communicates urgency or need to reply 
 
 #### Technical
 * Ensure that staff access email accounts through HTTPS
 
 * Ensure that email provider uses STARTLS 
 
-/------------- 
-this should be in SAFETAG / assessments:
+//------------- 
+the following should be in SAFETAG / assessments:
 (to test STARTLS:)
 
---> test using https://checktls.com
---> type in test@<email-provider-URL>
+* test using https://checktls.com
+* type in `test@<email-provider-URL>`
 
-* look at column "TLS Neg"
---> if "OK", it uses STARTTLS
---> if "FAIL", then you will need to implement STARTLS on your mail 
+* look at column `TLS Neg`
+  -- if `OK`, it uses STARTTLS
+  -- if `FAIL`, then you will need to implement STARTLS on your mail 
 server or move email providers
 
-* look at column "Cert OK"
---> if OK, it properly implements a TLS certificate
---> if FAIL, you or your email provider needs to improve the TLS 
+* look at column "`Cert OK`"
+  -- if `OK`, it properly implements a TLS certificate
+  -- if `FAIL`, you or your email provider needs to improve the TLS 
 certificate used
------------------/
+-----------------//
 
 ## 4 Creating and Maintaining an Engaged Organizational Culture
 
@@ -233,9 +233,9 @@ certificate used
 
 * this includes your devices' operating systems and the software you and 
 your website use
---> provide internet access to your staff to download software or 
+-- provide internet access to your staff to download software or 
 operating system updates if necessary
---> provide licenses for proprietary software if that software is 
+-- provide licenses for proprietary software if that software is 
 required and a staff member does not have a license
 
 ### 4.2 Create spaces for learning, assessing, adapting policies and 
@@ -262,26 +262,3 @@ feel free to contact:
 * any organization listed in the [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md#seeking-and-providing-remote-help) 
 * the engine room: post@theengineroom.org, [pgp key](https://pgp.mit.edu/pks/lookup?op=get&search=0xBA56E91DE8E8969F)
 * Access Now's helpline staff: help@accessnow.org, [pgp key](https://pgp.mit.edu/pks/lookup?op=get&search=0xC46BED3332E8A2BC)
-
-===============================================================
-
-
-## Password policies
-
-// non-ramp
-
-1	Supporting staff in using Keepass and providing them with training
-2	Remind staff to change passwords every two months
-3	Only sharing passwords and storing organizational passwords using Keepass databases
-4	Never storing unencrypted passwords on computers or sharing them over channels of communication like email and Skype
-5	Changing passwords and notifying the organization if their accounts are compromised
-6	Changing passwords after uneasy internet cafe experiences or travel
-7	Backup Keepass databases in a secure location regularly
-8	Setting up a screen lock on their computers that locks with ten minutes of activity
-9	Setting a pin code (at a minimum) on phones that are used for work-related communication. If a stronger password can be used (such as a keyboard password), staff must leverage this
-10	Setting a unique pin code for work-related SIM cards
-11	Using unique passwords, and a passwords manager for all organizational accounts
-12	Change passwords every two months and use a suitably strong password
-13	Not write passwords on paper or store in an easily discoverable digital format, such as a document or text file or within a browser password manager, as they can easily expose them to unauthorized individuals
-14	Not to store passwords in browsers
-15	Change the password to your KeePass database every two months
