@@ -35,24 +35,24 @@ continues to be developed.
 0. Introduction
 
 1. Access policies
-  1.1 Access to your place of work
-  1.2 Access to physical documents
-  1.3 Access to devices
-  1.4 Access to accounts
-  1.5 Removing access to organizational assets upon departure
+  * Access to your place of work
+  * Access to physical documents
+  * Access to devices
+  * Access to accounts
+  * Removing access to organizational assets upon departure
 
 2. Data management policies
-  2.1 Backing-up data (website, org data)
-  2.2 Travel with data (data minimization, encryption)
-  2.3 Deleting data
+ * Backing-up data (website, org data)
+ * Travel with data (data minimization, encryption)
+ * Deleting data
 
 3. Communications policies 
-  3.1 Define more and less sensitive communication methods
-  3.2 Email security
+  * Define more and less sensitive communication methods
+  * Email security
 
 4. Creating and maintaining an engaged organizational culture
-  4.1 Update software on devices
-  4.2 Create spaces for learning, assessing, adopting, adapting policies andpractices
+  * Update software on devices
+  * Create spaces for learning, assessing, adopting, adapting policies andpractices
 
 5. Resources
 
