@@ -238,8 +238,7 @@ operating system updates if necessary
 -- provide licenses for proprietary software if that software is 
 required and a staff member does not have a license
 
-### 4.2 Create spaces for learning, assessing, adapting policies and 
-practices
+### 4.2 Create spaces for learning, assessing, adapting policies and practices
 
 
 ## 5. Resources
