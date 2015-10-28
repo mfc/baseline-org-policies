@@ -1,5 +1,5 @@
 # Baseline organizational policies and practices 
-that every group working in human rights should consider implementing
+(that every group working in human rights should consider implementing)
 
 ## Table of Contents
 
