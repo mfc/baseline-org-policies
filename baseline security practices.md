@@ -1,28 +1,27 @@
-# *Baseline organizational policies and practices* that every group 
-working in human rights should consider implementing
+# Baseline organizational policies and practices 
+that every group working in human rights should consider implementing
 
 ## Table of Contents
 
 0. Introduction
 
 1. Access policies
-1.1 Access to where you work
-1.2 Access to devices
-1.3 Access to accounts
+  1.1 Access to where you work
+  1.2 Access to devices
+  1.3 Access to accounts
 
 2. Data management policies
-2.1 Backing-up data (website, org data)
-2.2 Travelling with data (data minimization, encryption)
-2.3 Deleting data
+  2.1 Backing-up data (website, org data)
+  2.2 Travelling with data (data minimization, encryption)
+  2.3 Deleting data
 
 3. Communications policies 
-3.1 Define more and less sensitive communication methods
-3.2 Email security
+  3.1 Define more and less sensitive communication methods
+  3.2 Email security
 
 4. Creating and maintaining an engaged organizational culture
-4.1 Update software on devices
-4.2 Create spaces for learning, assessing, adopting, adapting policies and 
-practices
+  4.1 Update software on devices
+  4.2 Create spaces for learning, assessing, adopting, adapting policies and practices
 
 5. Resources
 
