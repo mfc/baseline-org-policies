@@ -20,8 +20,7 @@ The current approach is to provide:
 3. a related template that a group could tailor or build upon to 
 create a policy for the organization to implement
 
-Please modify and improve it, and let me know what is helpful or not 
-helpful! 
+This is a *rough draft*. Please modify and improve it, and let me know what is helpful or not helpful! 
 
 Thanks to the groups and organizations I've worked with whose needs 
 instigated the creation of this resource, and for their patience as it 
