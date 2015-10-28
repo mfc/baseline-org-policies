@@ -221,7 +221,7 @@ the following should be in SAFETAG / assessments:
   -- if `FAIL`, then you will need to implement STARTLS on your mail 
 server or move email providers
 
-* look at column "`Cert OK`"
+* look at column `Cert OK`
   -- if `OK`, it properly implements a TLS certificate
   -- if `FAIL`, you or your email provider needs to improve the TLS 
 certificate used
