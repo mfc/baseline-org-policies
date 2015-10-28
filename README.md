@@ -46,8 +46,8 @@ continues to be developed.
  * Deleting data
 
 3. Communications policies 
-  * Define more and less sensitive communication methods
-  * Email security
+  * Practices
+  * Infrastructure
 
 4. Creating and maintaining an engaged organizational culture
   * Update software on devices
