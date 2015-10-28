@@ -260,4 +260,5 @@ feel free to contact:
 
 * any organization listed in the [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md#seeking-and-providing-remote-help) 
 * the engine room: post@theengineroom.org, [pgp key](https://pgp.mit.edu/pks/lookup?op=get&search=0xBA56E91DE8E8969F)
+* [Confabium](http://confabium.net/)
 * Access Now's helpline staff: help@accessnow.org, [pgp key](https://pgp.mit.edu/pks/lookup?op=get&search=0xC46BED3332E8A2BC)
