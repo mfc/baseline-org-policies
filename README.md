@@ -1,9 +1,5 @@
 # Baseline Organizational Policies and Practices
 
-////////////////////////
-/// work in progress ///
-////////////////////////
-
 This is a draft of a resource that came out of envisioning the next iteration of the 
 Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan), and reframing it as a guide towards implementation within a group. In 
 this reframing I have relied heavily on the content of the Organizational Security 
@@ -38,7 +34,7 @@ continues to be developed.
   * Access to physical documents
   * Access to devices
   * Access to accounts
-  * Removing access to organizational assets upon departure
+  * Removing access to group assets upon departure
 
 2. Data management policies
  * Backing-up data (website, org data)
@@ -48,6 +44,7 @@ continues to be developed.
 3. Communications policies 
   * Practices
   * Infrastructure
+  * Incident response
 
 4. Creating and maintaining an engaged organizational culture
   * Update software on devices

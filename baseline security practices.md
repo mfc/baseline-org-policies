@@ -9,7 +9,6 @@
   * Access to where you work
   * Access to devices
   * Access to accounts
-  * Access to accounts
   * Removing access to organizational assets upon departure
 
 2. Data management policies
@@ -20,6 +19,7 @@
 3. Communications policies 
   * Practices
   * Infrastructure
+  * Incident response
 
 4. Creating and maintaining an engaged organizational culture
   * Update software on devices
@@ -41,7 +41,7 @@ safety is based on the practices of their colleagues and their broader network.
 
 By providing baseline resources for the practices of organizations 
 working in human rights, we hope to aid organizations in jumpstarting 
-the continuous process of discussing, assessing, and implementating new 
+the continuous process of discussing, assessing, and implementing new 
 organizational practices.
 
 All individuals, groups, and organizations should assess their work, 
@@ -49,7 +49,7 @@ needs, and practices. Some resources for assessing these needs include:
 
 * Security in a Box's resources for assessing risks: https://securityinabox.org/en/lgbti-africa/security-risk
 * SAFETAG: https://github.com/OpenInternet/SAFETAG/blob/master/en/exercises/capacity_assessment_cheatsheet/instructions.md
-* Integrated Security Manuael: http://www.integratedsecuritymanual.org/threats-exercises
+* Integrated Security Manual: http://www.integratedsecuritymanual.org/threats-exercises
 * Surveillance Self-Defence: https://ssd.eff.org/en/module/introduction-threat-modeling
 
 Through such an assessment, one can highlight gaps in need or practice, and 
@@ -213,23 +213,9 @@ website has HTTPS enabled.
 
 * Ensure that email provider uses STARTTLS 
 
-```
-### to test STARTTLS
-(the following should be in SAFETAG / assessments, not here)
+### 3.3 Incident response
 
-* test using https://checktls.com
-* type in `test@<email-provider-URL>`
-
-* look at column `TLS Neg`
-  -- if `OK`, it uses STARTTLS
-  -- if `FAIL`, then you will need to implement STARTTLS on your mail 
-server or move email providers
-
-* look at column `Cert OK`
-  -- if `OK`, it properly implements a TLS certificate
-  -- if `FAIL`, you or your email provider needs to improve the TLS 
-certificate used
-```
+{paste in policies from helpline}
 
 ## 4 Creating and Maintaining an Engaged Organizational Culture
 
