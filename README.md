@@ -5,7 +5,7 @@ Responsible Data Forum's [Organizational Security Atomized Plan](https://github.
 this reframing I have relied heavily on the content of the Organizational Security 
 Atomized Plan itself, Internews' [SAFETAG](https://github.com/OpenInternet/SAFETAG/) 
 organizational assessment framework, and other resources listed in the 
-resources section.  
+[resources section](/baseline%20security%20practices.md#6-resources).  
 
 The current approach is to provide: 
 
