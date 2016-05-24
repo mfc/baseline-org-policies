@@ -46,28 +46,12 @@ the continuous process of discussing, assessing, and implementing new
 organizational practices.
 
 All individuals, groups, and organizations should assess their work, 
-needs, and practices. Some resources for assessing these needs include:
-
-* Security in a Box's resources for assessing risks: https://securityinabox.org/en/lgbti-africa/security-risk
-* SAFETAG: https://github.com/OpenInternet/SAFETAG/blob/master/en/exercises/capacity_assessment_cheatsheet/instructions.md
-* Integrated Security Manual: http://www.integratedsecuritymanual.org/threats-exercises
-* Surveillance Self-Defence: https://ssd.eff.org/en/module/introduction-threat-modeling
-
-Through such an assessment, one can highlight gaps in need or practice, and 
+needs, and practices. Some resources for assessing these needs are [listed here](/resources/1. introduction - assessing risks.md). Through such an assessment, one can highlight gaps in need or practice, and 
 prioritize topics for focus and improvement.
 
 This resource seeks to inform the post-assessment stage for a human 
 rights group group -- what are topics to consider for implementation 
 and the baselines practices within those topics to aim for, at minimum.
-
-Future plans for this resource include:
-
-- [ ] adding more organizational policy templates
-- [ ] getting it reviewed by the community, and feedback incorporated
-- [ ] ramp-ups for topics about practices that further increase the 
-security and safety of staff and communities
-- [ ] stories and illustrations to better communicate the importance of 
-these baseline practices and ways of implementing them
 
 ## 2. Access policies
 
