@@ -3,31 +3,31 @@
 
 ## Table of Contents
 
-0. Introduction
+1. Introduction
 
-1. Access policies
+2. Access policies
   * Access to where you work
   * Access to devices
   * Access to accounts
   * Removing access to organizational assets upon departure
 
-2. Data management policies
+3. Data management policies
   * Backing-up data (website, org data)
   * Travelling with data (data minimization, encryption)
   * Deleting data
 
-3. Communications policies 
+4. Communications policies 
   * Practices
   * Infrastructure
   * Incident response
 
-4. Creating and maintaining an engaged organizational culture
+5. Creating and maintaining an engaged organizational culture
   * Update software on devices
   * Create spaces for learning, assessing, adopting, adapting policies and practices
 
-5. Resources
+6. Resources
 
-## 0. Introduction
+## 1. Introduction
 
 Organizations implement policies to help staff adopt practices to 
 improve the effectiveness of the organization's work. This includes 
@@ -68,9 +68,9 @@ security and safety of staff and communities
 - [ ] stories and illustrations to better communicate the importance of 
 these baseline practices and ways of implementing them
 
-## 1. Access policies
+## 2. Access policies
 
-### 1.1 Access to your place of work (such as at an office, at home)
+### 2.1 Access to your place of work (such as at an office, at home)
 
 * Set policies to manage entry and exit of visitors and staff
 * Lock doors and windows when appropriate (such as when all 
@@ -78,14 +78,14 @@ staff leave)
 * Report to other staff members anything strange in or around the place 
 of work
 
-### 1.2 Access to physical documents
+### 2.2 Access to physical documents
 
 * Staff should manage their workspace to ensure no sensitive physical 
 documents are available to visitors
 -- locked file cabinets
 -- paper shredder
 
-### 1.3 Access to devices
+### 2.3 Access to devices
 
 * wifi network
 
@@ -119,7 +119,7 @@ be recorded.
 
 {}
 
-### 1.4 Access to accounts
+### 2.4 Access to accounts
 
 * organizational accounts (web presence [website, social media])
 * password manager
@@ -128,7 +128,7 @@ be recorded.
 * secret questions
 * Personnel management onboarding/offboarding
 
-### 1.5 Removing access to organizational assets upon departure
+### 2.5 Removing access to organizational assets upon departure
 		
 Departing staff must: 
 * return any keys for physical building access
@@ -142,15 +142,15 @@ other digital infrastructure (chat server, file server, etc)
 * Change passwords and/or access codes this individual may have access to
 * Share or discuss interim plans with other staff until there is a new hire
 
-## 2 Data management policies
+## 3 Data management policies
 
-### 2.1 Back-up data
+### 3.1 Back-up data
 
 * data the organization depends on should be backed-up in regular 
 intervals.  
 #link-to-how-to-backup
 
-### 2.2 Travel 
+### 3.2 Travel 
 
 General staff policies and emergency planning
 
@@ -172,7 +172,7 @@ you are carrying with you, or your accounts have access to.
 Encryption means protecting your device or data with an additional layer 
 of access control.
 
-### 2.3 Delete data securely
+### 3.3 Delete data securely
 
 * have a document shredder at your place of work
 
@@ -182,9 +182,9 @@ of access control.
 -- Mac #link-to-Mac-Secure-Trash
 -- wiping computers in general
 
-## 3. Communications policies
+## 4. Communications policies
 
-### 3.1 Practices
+### 4.1 Practices
 
 * Provide staff with work accounts (email, chat, voice)
 * Don't use your work account for personal communication or visa versa
@@ -203,7 +203,7 @@ groups, requiring consent to be tagged in a post or photo
   * at minimum, ensure that the log-in page for administrating the 
 website has HTTPS enabled.
 
-### 3.2 Infrastructure
+### 4.2 Infrastructure
 
 * know what organizations or companies provide you with your communication needs
 
@@ -213,13 +213,13 @@ website has HTTPS enabled.
 
 * Ensure that email provider uses STARTTLS 
 
-### 3.3 Incident response
+### 4.3 Incident response
 
 {paste in policies from helpline}
 
-## 4 Creating and Maintaining an Engaged Organizational Culture
+## 5 Creating and Maintaining an Engaged Organizational Culture
 
-### 4.1 Keep software up-to-date
+### 5.1 Keep software up-to-date
 
 * this includes your devices' operating systems and the software you and 
 your website use
@@ -228,23 +228,24 @@ operating system updates if necessary
 -- provide licenses for proprietary software if that software is 
 required and a staff member does not have a license
 
-### 4.2 Create spaces for learning, assessing, adapting policies and practices
+### 5.2 Create spaces for learning, assessing, adapting policies and practices
 
 { space created }
 
-## 5. Resources
+## 6. Resources
 
 Some existing resources on risk assessment frameworks include:
--- the Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/mfc/responsible-data/tree/master/organizational-security-atomized-plan) 
--- Internews' [SAFETAG](https://github.com/OpenInternet/SAFETAG/)
--- EISF's [Risk Management Toolkit](https://www.eisf.eu/library/security-to-go-a-risk-management-toolkit-for-humanitarian-aid-agencies/)
--- the engine room's [self-assessment questionnaire](https://www.theengineroom.org/basic-organizational-security-survey/)
--- Security in a Box's [resources for assessing 
+- the Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/mfc/responsible-data/tree/master/organizational-security-atomized-plan) 
+- Internews' [SAFETAG](https://github.com/OpenInternet/SAFETAG/)
+- EISF's [Risk Management Toolkit](https://www.eisf.eu/library/security-to-go-a-risk-management-toolkit-for-humanitarian-aid-agencies/)
+- the engine room's [self-assessment questionnaire](https://www.theengineroom.org/basic-organizational-security-survey/)
+- Security in a Box's [resources for assessing 
 risks](https://securityinabox.org/en/lgbti-africa/security-risk)
 * SAFETAG's [capacity assessment cheatsheet](https://github.com/OpenInternet/SAFETAG/blob/master/en/exercises/capacity_assessment_cheatsheet/instructions.md)
 * [Integrated Security Manual](http://www.integratedsecuritymanual.org/threats-exercises)
 * Surveillance Self-Defence's [intro to threat modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)
 * Security First's [Umbrella App](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
+* Information Ecology's [Security checklists](https://github.com/iecology/security-checklists)
 
 If you need assistance with assessing your groups needs and practices, 
 feel free to contact:
