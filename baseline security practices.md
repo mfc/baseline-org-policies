@@ -3,29 +3,30 @@
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](#1-introduction)
 
-2. Access policies
-  * Access to where you work
-  * Access to devices
-  * Access to accounts
-  * Removing access to organizational assets upon departure
+2. [Access policies](#2-access-policies)
+  1. [Access to where you work](#21-access-to-your-place-of-work-such-as-at-an-office-at-home)
+  2. [Access to physical documents](#22-access-to-physical-documents)
+  3. [Access to devices](#23-access-to-devices)
+  4. [Access to accounts](#24-access-to-accounts)
+  5. [Removing access to organizational assets upon departure](#25-removing-access-to-organizational-assets-upon-departure)
 
-3. Data management policies
-  * Backing-up data (website, org data)
-  * Travelling with data (data minimization, encryption)
-  * Deleting data
+3. [Data management policies](#3-data-management-policies)
+  1. [Backing-up data](#31-back-up-data)
+  2. [Travelling](#32-travel)
+  3. [Deleting data](#33-delete-data-securely)
 
-4. Communications policies 
-  * Practices
-  * Infrastructure
-  * Incident response
+4. [Communications policies](#4-communications-policies)
+  1. [Practices](#41-practices)
+  2. [Infrastructure](#42-infrastructure)
+  3. [Incident response](#43-incident-response)
 
-5. Creating and maintaining an engaged organizational culture
-  * Update software on devices
-  * Create spaces for learning, assessing, adopting, adapting policies and practices
+5. [Creating and maintaining an engaged organizational culture](#5-creating-and-maintaining-an-engaged-organizational-culture)
+  1. [Update software on devices](#51-keep-software-up-to-date)
+  2. [Create spaces for learning, assessing, adopting, adapting policies and practices](#52-create-spaces-for-learning-assessing-adapting-policies-and-practices)
 
-6. Resources
+6. [Resources](#6-resources)
 
 ## 1. Introduction
 
