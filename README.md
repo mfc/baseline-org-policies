@@ -1,6 +1,4 @@
-# Baseline Organizational Policies and Practices
-
-https://github.com/mfc/baseline-org-policies/blob/master/baseline%20security%20practices.md
+# [Baseline Organizational Policies and Practices](https://github.com/mfc/baseline-org-policies/blob/master/baseline%20security%20practices.md)
 
 This is a draft of a resource that came out of envisioning the next iteration of the 
 Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan), and reframing it as a guide towards implementation within a group. In 
