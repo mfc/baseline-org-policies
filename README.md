@@ -1,5 +1,7 @@
 # Baseline Organizational Policies and Practices
 
+https://github.com/mfc/baseline-org-policies/blob/master/baseline%20security%20practices.md
+
 This is a draft of a resource that came out of envisioning the next iteration of the 
 Responsible Data Forum's [Organizational Security Atomized Plan](https://github.com/the-engine-room/responsible-data/tree/master/organizational-security-atomized-plan), and reframing it as a guide towards implementation within a group. In 
 this reframing I have relied heavily on the content of the Organizational Security 
@@ -21,36 +23,6 @@ This is a *rough draft*. Please modify and improve it, and let me know what is h
 Thanks to the groups and organizations I've worked with whose needs 
 instigated the creation of this resource, and for their patience as it 
 continues to be developed. 
-
-# Baseline organizational policies and practices 
-(that every group working in human rights should consider implementing)
-
-## Table of Contents
-
-0. Introduction
-
-1. Access policies
-  * Access to your place of work
-  * Access to physical documents
-  * Access to devices
-  * Access to accounts
-  * Removing access to group assets upon departure
-
-2. Data management policies
- * Backing-up data (website, org data)
- * Travel with data (data minimization, encryption)
- * Deleting data
-
-3. Communications policies 
-  * Practices
-  * Infrastructure
-  * Incident response
-
-4. Creating and maintaining an engaged organizational culture
-  * Update software on devices
-  * Create spaces for learning, assessing, adopting, adapting policies and practices
-
-5. Resources
 
 --
 
