@@ -1,3 +1,9 @@
+# Latest version
+
+This has been most recently been worked on as a Google Doc, apologies. You can find it here:
+
+https://docs.google.com/document/d/1JpNS9pDHSNOtJv7bM9qn--95Z4U4feq9tyHM54z7Ybs/edit
+
 # [Baseline Organizational Policies and Practices](https://github.com/mfc/baseline-org-policies/blob/master/baseline%20security%20practices.md)
 
 This is a draft of a resource that came out of envisioning the next iteration of the 
